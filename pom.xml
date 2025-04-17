@@ -17,7 +17,7 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>${env.NEXUS_URL}</url>
+			<url>https://nexaplaform.nexus/repository/maven-snapshots/</url>
 		</repository>
 	</distributionManagement>
 
